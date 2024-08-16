@@ -51,7 +51,7 @@ export const PROJECTS_DATA = [
       "A web app that is built using NextJS and enables users to quickly search and obtain information about cars.",
     tags: ["React", "Next.js", "TypeScript", "Tailwind", "Headless UI"],
     imageUrl: carhubImg,
-    projectUrl: "#home",
+    projectUrl: "https://carhb.vercel.app/",
   },
   {
     title: "Realtor",
@@ -59,7 +59,7 @@ export const PROJECTS_DATA = [
       "Buy and rent homes for everyone. I was the front-end developer. It has features like filtering, sorting, and pagination.",
     tags: ["React", "Chakra UI", "Next.js", "Framer Motion", "React Icons"],
     imageUrl: realtorImg,
-    projectUrl: "#home",
+    projectUrl: "https://real-estate-app-react.vercel.app/",
   },
   {
     title: "ECommerce Store",
@@ -67,7 +67,7 @@ export const PROJECTS_DATA = [
       "A NextJS-based eCommerce store that allows users to order different products. It supports real-time payments using Stripe.",
     tags: ["React", "Next.js", "Sanity", "React Router", "Stripe"],
     imageUrl: ecommerceImg,
-    projectUrl: "#home",
+    projectUrl: "https://ecommerce-app-next.vercel.app/",
   },
 ] as const;
 
