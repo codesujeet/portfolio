@@ -97,7 +97,7 @@ const Intro = () => {
           </Link>
 
           <Link
-            href={EXTRA_LINKS.resume}
+            href="https://drive.google.com/file/d/1ViuD-PtY3Rk2iUIepPvzZmzCJ13nUSa5/view?usp=drive_link"
             target="_blank"
             className="flex items-center gap-2 py-3 transition bg-white rounded-full outline-none group px-7 focus:scale-105 hover:scale-105 active:scale-95 borderBlack dark:bg-white/10"
           >
