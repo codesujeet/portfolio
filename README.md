@@ -123,14 +123,7 @@ NEXT_PUBLIC_GOOGLE_VERIFICATION_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 **NOTE:** Ensure you don't share these keys publicly.
 
-## :camera: Screenshots:
 
-
-![Showcase Projects](/.github/images/img2.png "Showcase Projects")
-
-![Tell about your Experiences](/.github/images/img3.png "Tell about your Experiences")
-
-![Working Contact Form](/.github/images/img4.png "Working Contact Form")
 
 ## :gear: Tech Stack
 
