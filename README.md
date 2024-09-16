@@ -131,7 +131,7 @@ NEXT_PUBLIC_GOOGLE_VERIFICATION_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ## :wrench: Stats
 
-[![Stats for My portfolio](/.github/images/stats.svg "Stats for My portfolio")](https://pagespeed.web.dev/analysis?url=https://www.sanidhy.me/ "Stats for My portfolio")
+[![Stats for My portfolio](/.github/images/stats.svg "Stats for My portfolio")](https://pagespeed.web.dev/analysis?url=https://www.devsujeet.tech/ "Stats for My portfolio")
 
 ## :raised_hands: Contribute
 
